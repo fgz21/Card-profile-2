@@ -1,0 +1,62 @@
+body{
+	background:  hsl(217, 54%, 11%);
+
+}
+
+
+.container{
+	height:100vh;
+}
+
+
+.card{
+	width: 250px;
+	height: 450px;
+	background: hsl(216, 50%, 16%);
+	padding: 15px;
+	border-radius: 15px;
+}
+
+
+img{
+	padding: 5px;
+	border-radius: 15px;
+}
+
+h1{
+	color: hsl(0, 0%, 100%);
+	margin-top: 10px;
+	font-size: 18px;
+
+}
+
+p{
+	color: hsl(215, 51%, 70%);
+	font-size: 18px;
+}
+
+.primero{
+	color: hsl(178, 100%, 50%);
+	font-size: 15px;
+}
+
+.segundo, .tercero{
+		color: hsl(215, 51%, 70%);
+		font-size: 15px;
+}
+
+.cuarto{
+	color: hsl(0, 0%, 100%);
+}
+hr{
+	color: hsl(215, 51%, 70%);
+}
+
+
+.avatar img{
+	width: 30px;
+	height: 30px;
+}
+
+
+
